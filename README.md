@@ -1,3 +1,4 @@
+![](Bottom_down.svg)
 ## Hi there 👋 I am Zhuo
 
 - 🔭 I’m currently studying in FAU
@@ -16,3 +17,4 @@
 
 ![](https://img.shields.io/badge/C++-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+![](Bottom_down.svg)
