@@ -1,4 +1,5 @@
-![](Bottom_down.svg)
+![](Images/Bottom_up.svg)
+![](Images/header_.png)
 ## Hi there 👋 I am Zhuo
 
 - 🔭 I’m currently studying in FAU
